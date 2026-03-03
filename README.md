@@ -47,6 +47,14 @@ Workflow includes:
 
 ---
 
+
+## Spatial Price Distribution (Heat Map)
+
+ Heat map of price per m² based on geographical coordinates.
+
+![Price Heat Map](images/price_heatmap.png)
+
+
 ### Feature Correlation Matrix
 
 ![Feature Correlation](images/feature_correlation.png)
